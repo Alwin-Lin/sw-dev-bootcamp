@@ -60,5 +60,6 @@ Ready to add some impressive credentials to your name? Dive into our bootcamp an
 - Ready to [Get started for free](https://cloud.google.com/pricing) for Google
 Cloud Platform.
 - Sign up for [Github](https://github.com/signup)
-- Curious to learn & interst to explore next-generation computing system
-development model.
+- Curious to learn & interested in exploring next-generation computing system
+development models.
+- Submit your idea as a pull request, note that it will be displayed on [student ideas](student-ideas.md)
