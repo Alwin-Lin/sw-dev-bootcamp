@@ -1,4 +1,8 @@
 # What problems you can solve with Gen AI?
+## How to submit a pull request
+![](https://github.com/Alwin-Lin/sw-dev-bootcamp/blob/main/res/1.png)
+![](https://github.com/Alwin-Lin/sw-dev-bootcamp/blob/main/res/2.png)
+![](https://github.com/Alwin-Lin/sw-dev-bootcamp/blob/main/res/3.png)
 
 ## Example 
 - Airport Assistant:
