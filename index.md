@@ -3,13 +3,6 @@ tl;dr How we may level the playing field for better divested CS talent pipelines
 
 ![Compute A Better Future](res/computeAFuture.png)
 
-- [ASD code labs](codelabs.md) are developed as a workshop for
-[Google's Code Next](https://codenext.withgoogle.com/). Which works with
-high schoolers to cultivate the next generation of Black and Latinx tech leaders.
-- It'll continuously develop in open. So that any passionate in bootstrapping CS talent
-pipeline in their community can use them.
-- Any contribution is welcome. Let's make a dent in the consumer computing universe by getting more started.
-
 ## Why
 - Expand the future diversified talent pipeline for Tech?
 - Making advanced tech concepts like Machine Learning and Large Language Models accessible to high school students	
@@ -60,7 +53,7 @@ Ready to add some impressive credentials to your name? Dive into our bootcamp an
 - Weeks 6-8
 	- Mini-Project Development
 - Week 9
-	- Project showcase
+	- Project Showcase
 
 ## What do students need to join the workshop?
 - Ready to join [Google Meet meeting](https://apps.google.com/meet/).
