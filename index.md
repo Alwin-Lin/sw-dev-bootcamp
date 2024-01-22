@@ -18,7 +18,7 @@ is just getting started.
 ## How
 - Coaches from Tech. to share their CS journeys to share what's like to work in
 Tech. & be a role model to inspire high schoolers.
-- Introduction to Computer System 101 to show how theories power our digital lives.
+- Introduction to Gen AI 101 to show how theories power our digital lives.
 - Hands-on projects and practical demonstrations to apply learning in real-world scenarios.
 
 ## Key Outcomes
