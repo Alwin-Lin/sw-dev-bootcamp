@@ -1,7 +1,11 @@
-#Week 1: Introduction to Machine Learning and Teachable Machine
+# Week 1: Introduction to Machine Learning and Teachable Machine
+
+This week, students will be introduced to the fundamental concepts of machine learning (ML) and get hands-on experience with Teachable Machine, a beginner-friendly tool for creating ML models. They will also learn about conditional logic using "if-else" statements.
 ## Objective:
-- Understand the if-else condition
-- Understand the basics of machine learning.
+- Define machine learning and understand its basic principles.
+- Differentiate between supervised, unsupervised, and neural network learning.
+- Build a simple image classification model using Teachable Machine.
+- Grasp the concept of conditional logic using "if-else" statements in JavaScript.
 - Hands-on with (teachablemachine)<https://teachablemachine.withgoogle.com/train/image>
 ## Activities:
 ### What is a if condition in python?
@@ -62,6 +66,11 @@ function gotResult(error, results) {
 
 ### Introduction to basic ML concepts
 #### What is machine learning?
+- Machine Learning (ML): Algorithms that enable computers to learn from data. (Reference PDF page 3)
+- Supervised Learning: Training a model with labeled data. (Reference PDF page 5)
+- Unsupervised Learning: Finding patterns in data without labels. (Reference PDF page 5)
+- Neural Networks: ML models inspired by the human brain. (Reference PDF page 5)
+- If-Else Statements: Conditional logic
 ### Hands-on project with Teachable Machine to recognize simple gestures.
 0. Grab yourself a forked version
 	- Go to (replit)<https://replit.com/@nickianselmo/teachable-machine-p5-starter#index.html> and click the Fork&Run
