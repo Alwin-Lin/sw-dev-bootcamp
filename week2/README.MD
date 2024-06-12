@@ -3,18 +3,19 @@
 Welcome to the Quick Python API Starter Kit! This comprehensive guide is designed to provide you with a solid foundation in Python programming and making API calls, equipping you with the skills necessary to dive into practical projects like the Summary Bot. Whether you're a beginner or looking to refresh your knowledge, this guide has got you covered.
 
 ## Table of Contents
-1. [Laying the Foundation](#laying-the-foundation)
-2. [What is Python?](#what-is-python)
-3. [Python Syntax Basics](#python-syntax-basics)
-4. [Understanding Functions](#understanding-functions)
-5. [Creating and Calling Functions](#creating-and-calling-functions)
-6. [Introduction to APIs](#introduction-to-apis)
-7. [How Do APIs Work?](#how-do-apis-work)
-8. [APIs in Everyday Life](#apis-in-everyday-life)
-9. [Tools for Making API Calls](#tools-for-making-api-calls)
-10. [Handling API Responses](#handling-api-responses)
-11. [What is JSON?](#what-is-json)
-12. [Next Steps: Building a Summary Bot](#next-steps-building-a-summary-bot)
+1. [Laying the Foundation](#1-laying-the-foundation)
+2. [What is Python?](#2-what-is-python)
+3. [Python Syntax Basics](#3-python-syntax-basics)
+4. [Understanding Functions](#4-understanding-functions)
+5. [Creating and Calling Functions](#5-creating-and-calling-functions)
+6. [Introduction to APIs](#6-introduction-to-apis)
+7. [How Do APIs Work?](#7-how-do-apis-work)
+8. [APIs in Everyday Life](#8-apis-in-everyday-life)
+9. [Tools for Making API Calls](#9-tools-for-making-api-calls)
+10. [Handling API Responses](#10-handling-api-responses)
+11. [What is JSON?](#11-what-is-json)
+12. [Next Steps: Building a Summary Bot](#12-next-steps-building-a-summary-bot)
+13. [Extra Resources](#13extra-resources)
 
 ---
 
