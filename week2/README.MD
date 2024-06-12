@@ -157,6 +157,7 @@ JSON is a lightweight data interchange format that is easy for humans to read an
 ## 12. Next Steps: Building a Summary Bot
 
 Now that you've learned the basics of Python and API usage, it's time to put your skills to the test by building a Summary Bot. In the next lecture, we'll dive into the project, where you'll learn how to fetch data from external sources, process it, and generate summaries using machine learning techniques. Get ready for an exciting journey into the world of practical Python programming!
+
 ---
 
 ## 13. Extra Resources
