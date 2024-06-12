@@ -6,7 +6,7 @@ This week, students will be introduced to the fundamental concepts of machine le
 - Differentiate between supervised, unsupervised, and neural network learning.
 - Build a simple image classification model using Teachable Machine.
 - Grasp the concept of conditional logic using "if-else" statements in JavaScript.
-- Hands-on with (teachablemachine)<https://teachablemachine.withgoogle.com/train/image>
+- Hands-on with [teachablemachine](https://teachablemachine.withgoogle.com/train/image)
 ## Activities:
 ### What is a if condition in python?
 Conditional statements control the flow of execution based on certain conditions. In your project, these conditions are used to update the emoji displayed based on the class prediction from a machine learning model.
@@ -73,11 +73,11 @@ function gotResult(error, results) {
 - If-Else Statements: Conditional logic
 ### Hands-on project with Teachable Machine to recognize simple gestures.
 0. Grab yourself a forked version
-	- Go to (replit)<https://replit.com/@nickianselmo/teachable-machine-p5-starter#index.html> and click the Fork&Run
+	- Go to [replit](https://replit.com/@nickianselmo/teachable-machine-p5-starter#index.html) and click the Fork&Run
 	- Click on Fork Repl ToDo: take pictures
 	- To the right, click script.js ToDo: take pictures
 1. Train your own model
-	- Go to (teachablemachine)<https://teachablemachine.withgoogle.com/train/image>
+	- Go to [teachablemachine](https://teachablemachine.withgoogle.com/train/image)
 	- Change Class 1 to Thumbs Up
 	- Change Class 2 to Thumbs Down
 	- Click on Webcam under Thumbs Up and record materilas for Thumbs Up
