@@ -15,7 +15,7 @@ Welcome to the Quick Python API Starter Kit! This comprehensive guide is designe
 10. [Handling API Responses](#10-handling-api-responses)
 11. [What is JSON?](#11-what-is-json)
 12. [Next Steps: Building a Summary Bot](#12-next-steps-building-a-summary-bot)
-13. [Extra Resources](#13extra-resources)
+13. [Extra Resources](#13-extra-resources)
 
 ---
 
