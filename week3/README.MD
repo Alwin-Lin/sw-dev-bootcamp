@@ -5,12 +5,12 @@ In this project, you'll create a powerful tool that automatically summarizes You
 ## Table of Contents
 
 1.  [Introduction to Google Colab](#1-introduction-to-google-colab)
-2.  Essential Libraries(#2-essential-libraries)
-3.  Downloading Videos: Pytube in Action(#3-downloading-videos-pytube-in-action)
-4.  Transcribing Audio: Whisper's Magic(#4-transcribing-audio-whispers-magic)
-5.  Communicating with AI: OpenAI API Requests(#5-communicating-with-ai-openai-api-requests)
-6.  Crafting Effective Prompts(#6-crafting-effective-prompts)
-7.  Putting It All Together: Building the Bot(#7-putting-it-all-together-building-the-bot)
+2.  [Essential Libraries](#2-essential-libraries)
+3.  [Downloading Videos: Pytube in Action](#3-downloading-videos-pytube-in-action)
+4.  [Transcribing Audio: Whisper's Magic](#4-transcribing-audio-whispers-magic)
+5.  [Communicating with AI: OpenAI API Requests](#5-communicating-with-ai-openai-api-requests)
+6.  [Crafting Effective Prompts](#6-crafting-effective-prompts)
+7.  [Putting It All Together: Building the Bot](#7-putting-it-all-together-building-the-bot)
 
 ## 1. Introduction to Google Colab
 
