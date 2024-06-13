@@ -1,4 +1,4 @@
-# Gen AI & The Future of SW Development Bootcamp
+# CS Equity AI - 2024 Gen AI & The Future of SW Development Bootcamp
 tl;dr How we may level the playing field for better divested CS talent pipelines.
 
 ![Compute A Better Future](res/banner.png)
